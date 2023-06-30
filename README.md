@@ -12,8 +12,6 @@
   <a href="#get-in-touch">Get In Touch</a>
 </p>
 
-![screenshot](https://i.imgur.com/Y7ZyKXp.png)
-
 ## Tech Used
 * React
 * Tailwind CSS
