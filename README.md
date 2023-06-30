@@ -26,7 +26,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/k-charette/portfolio.git
+$ git clone https://github.com/k-azadzoi/portfolio.git
 
 # Go into the repository
 $ cd portfolio
