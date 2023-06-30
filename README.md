@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ken Charette Portfolio
+  Ken Azadzoi Portfolio
   <br>
 </h1>
 
@@ -41,5 +41,5 @@ $ npm start
 ---
 ## Get In Touch
 > [kencharette.com](https://kencharette.com) &nbsp;&middot;&nbsp;
-> GitHub [@k-charette](https://github.com/k-charette) &nbsp;&middot;&nbsp;
+> GitHub [@k-azadzoi](https://github.com/k-azadzoi) &nbsp;&middot;&nbsp;
 > Twitter [@ItsKenCharette](https://twitter.com/ItsKenCharette)
